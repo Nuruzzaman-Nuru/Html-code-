@@ -1,0 +1,100 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title> Some HTML Teg</title>
+</head>
+
+<body>
+  <h1 > nuru</h1>
+  <h6> nuru</h6>
+  <p><b>
+      <hr>i love bangladesh
+    </b>
+    <hr<br><abbr></abbr><br>I study at Green university of bangladesh
+  </p><br><big> This is big teg </big><br><b> Text bold </b><br><del> mid card </del><br>
+  <dd>Defination desctiption</dd><br>
+  <div> Ducument section (problem )</div><br>
+  <dl> defination term problem </dl><br>
+  <font> color text p </font><br>
+  <hr> Horizental rules</hr><br><i> text itali</i><br><iframe> IN link sub window </iframe><br><img
+    src="C:\Users\nuru8\OneDrive\Pictures\What-is-a-Semiconductor.png" wigdth="200"><br>
+  <form action="/action_page.php"><br>
+    <label for="fname"> First Name:</label>
+    <input type="text" id="frname"><br><br>
+    <label for="lname">Last name:</label>
+    <input type="text" id="lname" name="lname"><br><br>
+  </form>
+ jsc <input type "checkbox"="checkbox1" name="checkbox"> 
+  ssc<input type "checkbox"="checkbox1" name="checkbox">
+  hsc<input type "checkbox"="checkbox1" name="checkbox"><br><br>
+  <input type="submit" value="Submit"><br> <br><a href="https://www.w3schools.com">Visit W3Schools.com!</a> <br>The <abbr
+    title="GREEN University OF Bangladesh">GUB</abbr><br>
+  <address>
+    <a href="mailto:webmaster@example.com">Jon Doe</a> 
+      Visit us at:<br>
+      Example.com<br>
+      Box 564, Disneyland<br>
+      USA
+  </address><br> <img src="workplace.jpg" alt="Workplace" usemap="#workmap" width="400" height="379">
+
+<map name="workmap">
+  <area shape="rect" coords="" alt="Computer" href="computer.htm">
+  <img src=""#workmap
+  <area shape="rect" coords="290,172,333,250" alt="Phone" href="phone.htm">
+  <area shape="circle" coords="337,300,44" alt="Cup of coffee" href="coffee.htm">
+</map> 
+<img src="C:\Users\afroza\Documents\project.jpg" width="400" ,usemap="#workmap">
+<map name ="worldmap">
+    <area shape = "ract" coods="308,291,379,349" href="https://geology.com/world/world-map.shtml" target="_blank">
+</map>
+<video width="320" height="240" controls>
+  <source src="https://youtu.be/t0Q2otsqC4I" type="video/mp4">
+  Your browser does not support the video tag.
+</video> 
+
+</body>
+
+</html>
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>wed page</title>
+</head>
+
+<body>
+  <h1> book list</h1>
+  <ol type="i">
+    <li>bangla</li>
+    <li>English</li>
+
+    <ul type="circle">
+      <li>horror</li>
+      <li>history</li>
+      <li>thriller</li>
+      <li>crime</li>
+    </ul>
+
+    <li>math</li>
+    <li>cse</li>
+  </ol>
+  <p> jonmo mrittor abortone ponor jonmo hobe <br> tomar abar pabo kokhon k jane .<br> dure jao , sore jao , rekhe kico
+    sriti tomar amar .<br> jani abar akti jonmo amar kobo hobe na. <br>
+    jani abar amon kore tomar dekha pabo na.</p>
+
+  <form>
+    <input type "checkbox"="checkbox1" name="checkbox"> jsc
+    <input type "checkbox"="checkbox1" name="checkbox"> ssc
+    <input type "checkbox"="checkbox1" name="checkbox"> hsc
+    <input type="submit" value="Submit">
+  </form>
+
+</body>
+
+</html>
